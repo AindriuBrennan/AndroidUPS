@@ -1,0 +1,8 @@
+{
+  "pushServerURL": "http://localhost:9999/",
+  "android": {
+    "senderID": "andrew-ups",
+    "variantID": "fd703c4c-1d22-49b1-a50e-cd6152a473b6",
+    "variantSecret": "fefec8c6-2a1f-4eb9-81cc-5b93b90d77d1"
+  }
+}
