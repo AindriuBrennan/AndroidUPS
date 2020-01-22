@@ -1,42 +1,121 @@
 {
   "project_info": {
-    "project_number": "244218900679",
-    "firebase_url": "https://ups-test-c43df.firebaseio.com",
-    "project_id": "ups-test-c43df",
-    "storage_bucket": "ups-test-c43df.appspot.com"
+    "project_number": "881192658444",
+    "firebase_url": "https://aerogearups.firebaseio.com",
+    "project_id": "aerogearups",
+    "storage_bucket": "aerogearups.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:244218900679:android:80e8081c6de40ceda7cee2",
+        "mobilesdk_app_id": "1:881192658444:android:62b147b8b35ed021c17029",
         "android_client_info": {
           "package_name": "com.push.pushapplication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "244218900679-goul00tomc0qdusuq6bbgelcab3hefkq.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.push.pushapplication",
-            "certificate_hash": "cbf8004443be1e372cbad73ec0392e667f8641bf"
-          }
-        },
-        {
-          "client_id": "244218900679-ejlj6i9364g33r10mqa46md8ua7bqupr.apps.googleusercontent.com",
+          "client_id": "881192658444-vsaa0cnqiisbjggpca3m6mkmataj0mqo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDwM1J_gvxMZJkyYZt2EHIqD0NHd6TOb-Y"
+          "current_key": "AIzaSyA6ETMMv_knFLdiW1OZaq1t9ig6c18u96E"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "244218900679-ejlj6i9364g33r10mqa46md8ua7bqupr.apps.googleusercontent.com",
+              "client_id": "881192658444-vsaa0cnqiisbjggpca3m6mkmataj0mqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881192658444:android:31435d4554119e3b",
+        "android_client_info": {
+          "package_name": "com.redhat.maxupstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881192658444-vsaa0cnqiisbjggpca3m6mkmataj0mqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ETMMv_knFLdiW1OZaq1t9ig6c18u96E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881192658444-vsaa0cnqiisbjggpca3m6mkmataj0mqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881192658444:android:fecbf4f4449a1faa",
+        "android_client_info": {
+          "package_name": "org.aerogear.integrationtests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881192658444-vsaa0cnqiisbjggpca3m6mkmataj0mqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ETMMv_knFLdiW1OZaq1t9ig6c18u96E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881192658444-vsaa0cnqiisbjggpca3m6mkmataj0mqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881192658444:android:bd65ae01e4d1c8a3",
+        "android_client_info": {
+          "package_name": "org.aerogear.ionic.showcase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881192658444-vsaa0cnqiisbjggpca3m6mkmataj0mqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ETMMv_knFLdiW1OZaq1t9ig6c18u96E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881192658444-vsaa0cnqiisbjggpca3m6mkmataj0mqo.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
